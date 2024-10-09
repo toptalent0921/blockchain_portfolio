@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/blockchain_portfolio/static/css/main.95b9df89.css",
+    "main.js": "/blockchain_portfolio/static/js/main.18e89074.js",
+    "static/js/787.0b173bc5.chunk.js": "/blockchain_portfolio/static/js/787.0b173bc5.chunk.js",
+    "static/media/5927911.gif": "/blockchain_portfolio/static/media/5927911.fa83757e2d6da73c5a8d.gif",
+    "static/media/portfolio.png": "/blockchain_portfolio/static/media/portfolio.1969cd4db6bd3ffbba57.png",
+    "static/media/remoteJobImg.png": "/blockchain_portfolio/static/media/remoteJobImg.4f0457741b0f0bdf8f04.png",
+    "static/media/horsecare.png": "/blockchain_portfolio/static/media/horsecare.55947a6951c4103c428d.png",
+    "index.html": "/blockchain_portfolio/index.html",
+    "main.95b9df89.css.map": "/blockchain_portfolio/static/css/main.95b9df89.css.map",
+    "main.18e89074.js.map": "/blockchain_portfolio/static/js/main.18e89074.js.map",
+    "787.0b173bc5.chunk.js.map": "/blockchain_portfolio/static/js/787.0b173bc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b9df89.css",
+    "static/js/main.18e89074.js"
+  ]
+}
