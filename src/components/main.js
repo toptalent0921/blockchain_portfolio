@@ -5,13 +5,18 @@ import {
     DiJavascript,
     DiReact,
     DiNodejsSmall,
+    DiDjango,
+    DiLaravel
 } from "react-icons/di";
 import {
     SiNextdotjs,
     SiNodedotjs,
-    SiCanva,
+    SiPython,
+    SiDjango,
+    SiPhp,
     SiSolidity,
     SiEthereum,
+    SiRust
 } from "react-icons/si";
 import { FaHardHat, FaGithub } from "react-icons/fa";
 import AOS from "aos";
@@ -104,10 +109,43 @@ const Main = () => {
                                     <div className="flex items-center">
                                         {" "}
                                         <div className=" w-10 h-10 cont bg-slate-600 rounded-full">
-                                            <SiCanva className="h-10 w-10" />
+                                            <SiPython className="h-10 w-10" />
                                         </div>
                                         <span className="marquee-tag">
-                                            canva
+                                            Python
+                                        </span>{" "}
+                                    </div>
+                                </div>{" "}
+                                <div className="marquee-tag-wrapper">
+                                    <div className="flex items-center">
+                                        {" "}
+                                        <div className=" w-10 h-10 cont bg-slate-600 rounded-full">
+                                            <SiDjango className="h-10 w-10" />
+                                        </div>
+                                        <span className="marquee-tag">
+                                            Django
+                                        </span>{" "}
+                                    </div>
+                                </div>{" "}
+                                <div className="marquee-tag-wrapper">
+                                    <div className="flex items-center">
+                                        {" "}
+                                        <div className=" w-10 h-10 cont bg-slate-600 rounded-full">
+                                            <SiPhp className="h-10 w-10" />
+                                        </div>
+                                        <span className="marquee-tag">
+                                            PHP
+                                        </span>{" "}
+                                    </div>
+                                </div>{" "}
+                                <div className="marquee-tag-wrapper">
+                                    <div className="flex items-center">
+                                        {" "}
+                                        <div className=" w-10 h-10 cont bg-slate-600 rounded-full">
+                                            <DiLaravel className="h-10 w-10" />
+                                        </div>
+                                        <span className="marquee-tag">
+                                            Laravel
                                         </span>{" "}
                                     </div>
                                 </div>{" "}
@@ -119,6 +157,17 @@ const Main = () => {
                                         </div>
                                         <span className="marquee-tag">
                                             Solidity
+                                        </span>{" "}
+                                    </div>
+                                </div>{" "}
+                                <div className="marquee-tag-wrapper">
+                                    <div className="flex items-center">
+                                        {" "}
+                                        <div className=" w-10 h-10 cont bg-slate-600 rounded-full">
+                                            <SiRust className="h-10 w-10" />
+                                        </div>
+                                        <span className="marquee-tag">
+                                            Rust
                                         </span>{" "}
                                     </div>
                                 </div>{" "}
@@ -229,10 +278,43 @@ const Main = () => {
                                     <div className="flex items-center">
                                         {" "}
                                         <div className=" w-10 h-10 cont bg-slate-600 rounded-full">
-                                            <SiCanva className="h-10 w-10" />
+                                            <SiPython className="h-10 w-10" />
                                         </div>
                                         <span className="marquee-tag">
-                                            canva
+                                            Python
+                                        </span>{" "}
+                                    </div>
+                                </div>{" "}
+                                <div className="marquee-tag-wrapper">
+                                    <div className="flex items-center">
+                                        {" "}
+                                        <div className=" w-10 h-10 cont bg-slate-600 rounded-full">
+                                            <SiDjango className="h-10 w-10" />
+                                        </div>
+                                        <span className="marquee-tag">
+                                            Django
+                                        </span>{" "}
+                                    </div>
+                                </div>{" "}
+                                <div className="marquee-tag-wrapper">
+                                    <div className="flex items-center">
+                                        {" "}
+                                        <div className=" w-10 h-10 cont bg-slate-600 rounded-full">
+                                            <SiPhp className="h-10 w-10" />
+                                        </div>
+                                        <span className="marquee-tag">
+                                            PHP
+                                        </span>{" "}
+                                    </div>
+                                </div>{" "}
+                                <div className="marquee-tag-wrapper">
+                                    <div className="flex items-center">
+                                        {" "}
+                                        <div className=" w-10 h-10 cont bg-slate-600 rounded-full">
+                                            <DiLaravel className="h-10 w-10" />
+                                        </div>
+                                        <span className="marquee-tag">
+                                            Laravel
                                         </span>{" "}
                                     </div>
                                 </div>{" "}
@@ -244,6 +326,17 @@ const Main = () => {
                                         </div>
                                         <span className="marquee-tag">
                                             Solidity
+                                        </span>{" "}
+                                    </div>
+                                </div>{" "}
+                                <div className="marquee-tag-wrapper">
+                                    <div className="flex items-center">
+                                        {" "}
+                                        <div className=" w-10 h-10 cont bg-slate-600 rounded-full">
+                                            <SiRust className="h-10 w-10" />
+                                        </div>
+                                        <span className="marquee-tag">
+                                            Rust
                                         </span>{" "}
                                     </div>
                                 </div>{" "}
@@ -296,14 +389,10 @@ const Main = () => {
                                     <ul className="  mt-2 m-5 flex flex-col items-center justify-center text-xl font-medium text-gray-400 ">
                                         <li>JavaScript</li>
                                         <li>TypeScript</li>
-                                        <li>Tailwind css</li>
-                                        <li>ShadcnUI</li>
+                                        <li>Tailwind CSS</li>
+                                        <li>Material UI</li>
                                         <li>React.js</li>
                                         <li>Next.js</li>
-                                        <li>
-                                            css components like MUI , Flowbite ,
-                                            daisyUI etc
-                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -319,11 +408,15 @@ const Main = () => {
                                 </div>
                                 <div>
                                     <ul className="  mt-2 m-5 flex flex-col items-center justify-center text-xl font-medium text-gray-400 ">
-                                        <li>node.js</li>
-                                        <li>express.js</li>
+                                        <li>Node.js</li>
+                                        <li>Express.js</li>
+                                        <li>Python</li>
+                                        <li>PHP</li>
                                         <li>Supabase</li>
                                         <li>Firebase</li>
-                                        <li>mongodb</li>
+                                        <li>MongoDB</li>
+                                        <li>MySQL</li>
+                                        <li>PostgreSQL</li>
                                     </ul>
                                 </div>
                             </div>
@@ -342,6 +435,7 @@ const Main = () => {
                                     <ul className="  mt-2 m-5 flex flex-col items-center justify-center text-xl font-medium text-gray-400 ">
                                         <li>Ethereum</li>
                                         <li>Solidity</li>
+                                        <li>Rust</li>
                                         <li>Ether.js</li>
                                         <li>web3.js</li>
                                         <li>Hardhat</li>
@@ -362,10 +456,7 @@ const Main = () => {
                                     <ul className="  mt-2 m-5 flex flex-col items-center justify-center text-xl font-medium text-gray-400 ">
                                         <li>Git</li>
                                         <li>Open source</li>
-                                        <li>Canva</li>
-                                        <li>figma</li>
-                                        <li>Davinchi</li>
-                                        <li>puppeteer</li>
+                                        <li>Figma</li>
                                         <li>web socket</li>
                                     </ul>
                                 </div>

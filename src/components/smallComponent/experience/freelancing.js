@@ -105,7 +105,7 @@ const Freelancing = () => {
                     <div className=" mt-10">
                         <h3 className=" text-3xl font-bold text-gray-400">
                             {" "}
-                            Freelancing ( Client from Yemen )
+                            Freelancing ( Client from Germany )
                         </h3>
                         <div className=" flex flex-col gap-4 mt-4 ml-4">
                             <div>

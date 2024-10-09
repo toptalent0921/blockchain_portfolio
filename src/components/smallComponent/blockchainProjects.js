@@ -47,7 +47,7 @@ const BlockchainProjects = () => {
                         The Immortal Chat app uses a secure smart contract on the Ethereum network, coded in Solidity , Hardhat and Ether.js. The contract creates a tamper-proof chat, with conversations permanently stored on the blockchain, guaranteeing user privacy.
                         </p>
                         <a
-                            href="https://github.com/DIWAKARKASHYAP/immortal-chat-contract"
+                            href="https://github.com/toptalent0921/immortal-chat-contract"
                             target="_blank"
                             rel="noreferrer"
                             className="  inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white rounded-lg  focus:ring-4 focus:outline-none  bg-blue-600 hover:bg-blue-700 focus:ring-blue-800"
@@ -89,7 +89,7 @@ const BlockchainProjects = () => {
                         This Solidity-based contract charges a fee in the form of any token when transferFrom() and transfer() functions are executed. The owner has the exclusive right to claim all collected fees. This unique functionality sets it apart from other token contracts.
                         </p>
                         <a
-                            href="https://github.com/DIWAKARKASHYAP/fee-charging-token-contract/blob/main/feeToken.sol"
+                            href="https://github.com/toptalent0921/fee-charging-token-contract/blob/main/feeToken.sol"
                             target="_blank"
                             rel="noreferrer"
 
@@ -135,7 +135,7 @@ const BlockchainProjects = () => {
                         This lottery contract ensures a fair process as only the owner can generate a random number and determine the winner. The contract is reusable, providing  convenience to users after a winner is found.
                         </p>
                         <a
-                            href="https://github.com/DIWAKARKASHYAP/solidityLottery"
+                            href="https://github.com/toptalent0921/solidityLottery"
                             target="_blank"
                             rel="noreferrer"
 
@@ -176,7 +176,7 @@ const BlockchainProjects = () => {
                         This crowdfunding smart contract provides a secure and transparent way for entrepreneurs to raise funds from investors. The contract ensures accountability by releasing funds only when certain conditions are met.
                         </p>
                         <a
-                            href="https://github.com/DIWAKARKASHYAP/crowd-funding"
+                            href="https://github.com/toptalent0921/crowd-funding"
                             target="_blank"
                             rel="noreferrer"
 
